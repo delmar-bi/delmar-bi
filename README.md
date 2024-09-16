@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delmar-bi
+- 👀 I’m interested in testing git for our project
+- 🌱 I’m currently learning how to use github for our projects
